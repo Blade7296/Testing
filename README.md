@@ -1,6 +1,6 @@
 # Learning how to use github
 
-Hello.. This is my second repo
+Hello.. This is my first repo
 
 ## Part 1
 creating README file
